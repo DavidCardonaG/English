@@ -1,6 +1,6 @@
 import { forwardRef } from "react";
 
-const Footer = forwardRef<HTMLDivElement>((props, ref) => {
+const Footer = forwardRef<HTMLDivElement>((_, ref) => {
   const phoneNumber = "+573194151961";
   const whatsappMessage = "Hello! I have a question about English Phonetics";
 

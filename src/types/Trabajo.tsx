@@ -1,5 +1,10 @@
 export interface Trabajo {
+  id:string;
   titulo: string;
   descripcion: string;
-  audio?: string;
+  contenido:string[];
+  imageUrl?: string;
+  tags?:string[];
+  type?: string;
+  audioUrl?: string;
 }
