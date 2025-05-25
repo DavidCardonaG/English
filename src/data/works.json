@@ -1,0 +1,121 @@
+[
+  {
+    "id": "1",
+    "titulo": "Concepts of Phonetics and Phonology",
+    "descripcion": "Introduction to phonetics and phonology with key examples.",
+    "contenido": [
+      "PHONETICS",
+      "Phonetics is the science that studies speech sounds in a language, how they are produced, perceived, and their acoustic properties. It analyzes the physiological processes of sound production and the points of articulation.",
+      "Articulatory features describe how sounds are produced based on the speech organs. These include:",
+      "• Place of articulation: The location where the sound is produced (e.g., bilabial /p/, dental /t/).",
+      "• Manner of articulation: The way air flows when pronouncing the sound (e.g., plosive /b/, fricative /f/).",
+      "• Voicing: Whether the vocal cords vibrate or not (e.g., voiced /d/, voiceless /t/).",
+      "________________________________________",
+      "PHONOLOGY",
+      "Phonology examines the rules that govern sound realization in a language, identifying relevant distinctions and analyzing how these sounds function in different contexts of speech.",
+      "Suprasegmental features affect larger units than phonemes, such as syllables or words. These include:",
+      "• Stress: The intensity with which a syllable is pronounced (e.g., 'record' [noun] vs. 'record' [verb]).",
+      "• Intonation: Variation in pitch within a sentence (e.g., rising intonation for yes/no questions).",
+      "• Duration: The length of time a sound or syllable is pronounced."
+    ],
+    "tags": ["phonetics", "phonology", "theory"],
+    "type": "theory"
+  },
+  {
+    "id": "2",
+    "titulo": "Places of Articulation",
+    "descripcion": "Speech organs and articulation points.",
+    "contenido": [
+      "ARTICULATORS",
+      "Articulators are the speech organs involved in sound production. These include: the lips, teeth, hard palate, soft palate, tongue, alveolars, and glottis.",
+      "________________________________________",
+      "PLACES OF ARTICULATION",
+      "Bilabial, labiodental, dental, alveolar, palatal, velar, and glottal."
+    ],
+    "tags": ["articulation", "anatomy"],
+    "type": "theory"
+  },
+  {
+    "id": "3",
+    "titulo": "Voiced and Voiceless Sounds",
+    "descripcion": "Differences between voiced and voiceless sounds.",
+    "contenido": [
+      "Voiced sounds are produced with vocal cord vibration (e.g., /b/, /d/, /g/, /v/, /z/).",
+      "Voiceless sounds are produced without vocal cord vibration (e.g., /p/, /t/, /k/, /f/, /s/)."
+    ],
+    "tags": ["sounds", "exercises"],
+    "type": "exercise"
+  },
+  {
+    "id": "4",
+    "titulo": "Speech Organs Diagram",
+    "descripcion": "Diagram of the speech organs.",
+    "contenido": [
+    "This diagram shows all the speech organs involved in sound production:",
+    "IMAGE::https://res.cloudinary.com/cardonagarciadavid11/image/upload/v1748127098/Imagen1_qgnpp0.png"
+    ],
+    "tags": ["anatomy", "diagram"],
+    "type": "visual"
+  },
+  {
+    "id": "5",
+    "titulo": "Content Words",
+    "descripcion": "Words with important lexical meaning.",
+    "contenido": [
+      "Content words carry the main meaning in sentences:",
+      "• Nouns (e.g., 'dog', 'house')",
+      "• Main verbs (e.g., 'run', 'think')",
+      "• Adjectives (e.g., 'happy', 'big')",
+      "• Adverbs (e.g., 'quickly', 'very')",
+      "These words are typically stressed in sentences."
+    ],
+    "tags": ["grammar", "vocabulary"],
+    "type": "theory"
+  },
+  {
+    "id": "6",
+    "titulo": "Function Words",
+    "descripcion": "Grammatical words that structure language.",
+    "contenido": [
+      "Function words provide grammatical structure:",
+      "• Articles ('the', 'a')",
+      "• Prepositions ('in', 'on')",
+      "• Pronouns ('he', 'they')",
+      "• Conjunctions ('and', 'but')",
+      "• Auxiliary verbs ('do', 'have')",
+      "These words are usually unstressed."
+    ],
+    "tags": ["grammar", "syntax"],
+    "type": "theory"
+  },
+  {
+    "id": "7",
+    "titulo": "Falling Intonation",
+    "descripcion": "Descending pitch pattern in English.",
+    "contenido": [
+      "Falling intonation (↘) is used for:",
+      "• Statements: 'She's a teacher.'",
+      "• WH-questions: 'What's your name?'",
+      "• Commands: 'Sit down.'",
+      "• Exclamations: 'What a surprise!'",
+      "It conveys completeness and finality."
+    ],
+    "tags": ["intonation", "pronunciation"],
+    "type": "exercise"
+  },
+  {
+    "id": "8",
+    "titulo": "Rising Intonation",
+    "descripcion": "Ascending pitch pattern in English.",
+    "contenido": [
+      "Rising intonation (↗) is used for:",
+      "• Yes/No questions: 'Are you coming?'",
+      "• Incomplete thoughts: 'If I were you...'",
+      "• Listing items: 'Apples, bananas, oranges...'",
+      "• Showing politeness: 'Excuse me?'",
+      "It conveys uncertainty or continuation."
+    ],
+    "tags": ["intonation", "pronunciation"],
+    "type": "exercise"
+  }
+]
